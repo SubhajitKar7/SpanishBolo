@@ -103,11 +103,11 @@ margin:0;
   }
 
  .container{
- margin:0;
- width: 100%;
- /* margin-right: 10%;
+ /*margin:0;
+ width: 100%;*/
+  margin-right: 10%;
  	margin-left: 10%;
- */}
+ }
 
  .row{
  	padding: 30px;
